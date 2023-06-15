@@ -1,6 +1,6 @@
 ### Hello World, I'm Steph👋
 
-![Imgur](https://i.imgur.com/NWkQqJS.mp4)
+![](https://i.imgur.com/NWkQqJS.mp4)
 
 ## I'm a Wife, Developer, Creator, and Artist!!
 - ✍ You can find my designs here [Behance]
