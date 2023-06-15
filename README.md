@@ -1,6 +1,7 @@
 ### Hello World, I'm Steph👋
 
-![](https://i.imgur.com/NWkQqJS.mp4)
+
+![](https://github.com/Worksmart377/Worksmart377/GIF.mp4)
 
 ## I'm a Wife, Developer, Creator, and Artist!!
 - ✍ You can find my designs here [Behance]
