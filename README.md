@@ -1,7 +1,6 @@
 ### Hello World, I'm Steph👋
 
- <img align="right" alt="GIF" src="[GIF]" width="500" height="320" />
-
+![Imgur](https://i.imgur.com/NWkQqJS.mp4)
 
 ## I'm a Wife, Developer, Creator, and Artist!!
 - ✍ You can find my designs here [Behance]
