@@ -1,10 +1,8 @@
 ### Hello World, I'm Steph👋
 
 
-![](https://github.com/Worksmart377/Worksmart377/GIF.mp4)
-
 ## I'm a Wife, Developer, Creator, and Artist!!
-- ✍ You can find my designs here [Behance]
+- ✍ You can find some of my designs here at my [Behance] profile
 - 🔭 I’m currently working on refactoring and updating my Repositories.
 - 🌱 I’m currently learning AWS & Cyber Security Concepts
 - 👯 I’m looking to collaborate on open source
@@ -48,6 +46,7 @@
 <img align="left" alt="Steph's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksmart377" />
 
 </details>
+
 [GIF]: https://i.imgur.com/NWkQqJS.mp4
 [linkedin]: https://linkedin.com/in/stephany-nelson
 [Behance]: https://www.behance.net/MrsN377
