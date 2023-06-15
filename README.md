@@ -1,15 +1,15 @@
 ### Hello World, I'm Steph👋
 
- <img align="right" alt="GIF" src="" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://imgur.com/NWkQqJS" width="500" height="320" />
 
 
 ## I'm a Wife, Developer, Creator, and Artist!!
 - ✍ You can find my designs here [Behance]
-- 🔭 I’m currently working on refactoring and updating my current Repositories.
+- 🔭 I’m currently working on refactoring and updating my Repositories.
 - 🌱 I’m currently learning AWS & Cyber Security Concepts
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023
+- ⚡ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023 and I am looking for work
 
 
 ### Talk with me, I am kinda awesome:
