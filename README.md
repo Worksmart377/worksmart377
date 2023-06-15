@@ -1,6 +1,6 @@
 ### Hello World, I'm Steph👋
 
- <img align="right" alt="GIF" src="https://imgur.com/NWkQqJS" width="500" height="320" />
+ <img align="right" alt="GIF" src="[GIF]" width="500" height="320" />
 
 
 ## I'm a Wife, Developer, Creator, and Artist!!
@@ -48,6 +48,6 @@
 <img align="left" alt="Steph's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksmart377" />
 
 </details>
-
+[GIF]: https://i.imgur.com/NWkQqJS.mp4
 [linkedin]: https://linkedin.com/in/stephany-nelson
 [Behance]: https://www.behance.net/MrsN377
