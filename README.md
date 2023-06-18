@@ -3,7 +3,7 @@
  <img align="center" alt="[Software Engineer]" src="https://github.com/Worksmart377/worksmart377/assets/111963936/988278c0-77be-4b7a-b6d7-23c09fb987bf" width="850" height="200" />
 
 ## I'm a Wife, Developer, Creator, and Artist!!
-- ✍ You can find some of my designs here at my [Behance] profile
+- ✍ You can find some of my digital designs and illustrations here at my [Behance] profile
 - 🔭 I’m currently working on refactoring and updating my Repositories.
 - 🌱 I’m currently learning AWS & Cyber Security Concepts
 - 👯 I’m looking to collaborate on open source
