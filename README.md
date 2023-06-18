@@ -1,4 +1,4 @@
-### Thank you for droping by, I'm Steph👋!
+### Thank you for dropping by, I'm Steph👋!
 
  <img align="center" alt="[Software Engineer]" src="https://github.com/Worksmart377/worksmart377/assets/111963936/988278c0-77be-4b7a-b6d7-23c09fb987bf" width="850" height="200" />
 
