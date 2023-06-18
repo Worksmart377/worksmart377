@@ -1,5 +1,6 @@
-### Hello World, I'm Steph👋
+### Thank you for droping by, I'm Steph👋!
 
+ <img align="center" alt="[Software Engineer]" src="https://github.com/Worksmart377/worksmart377/assets/111963936/988278c0-77be-4b7a-b6d7-23c09fb987bf" width="850" height="200" />
 
 ## I'm a Wife, Developer, Creator, and Artist!!
 - ✍ You can find some of my designs here at my [Behance] profile
@@ -7,7 +8,7 @@
 - 🌱 I’m currently learning AWS & Cyber Security Concepts
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023 and I am looking for work
+- ⚡ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023 and I am actively seeking a company that I can be a perfect fit for. 
 
 
 ### Connect with me on LinkedIn:
