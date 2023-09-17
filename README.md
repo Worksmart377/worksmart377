@@ -11,7 +11,7 @@
 - 🙋🏻‍♀️ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023 and I am actively seeking a company that I can be a perfect fit for 🧩. 
 
 
-### Connect with me on LinkedIn:
+### Connect with me on:
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 <br />
@@ -50,3 +50,4 @@
 [GIF]: https://i.imgur.com/NWkQqJS.mp4
 [linkedin]: https://linkedin.com/in/stephany-nelson
 [Behance]: https://www.behance.net/MrsN377
+[portfolio]: https://stephs-portfolio.netlify.app
