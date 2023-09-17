@@ -13,6 +13,8 @@
 
 ### Connect with me on:
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<br />
+![](https://github.com/Worksmart377/worksmart377/blob/main/GIF.mp4)
 
 <br />
 
