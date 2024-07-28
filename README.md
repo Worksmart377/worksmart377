@@ -5,7 +5,7 @@
 ## I'm a Wife, Developer, Creator, and Artist!!
 - 🎨 You can find some of my digital designs and illustrations here at my [Behance] profile
 - 👩🏻‍💻 I’m currently working on refactoring and updating my Repositories.
-- 📚 I’m working on obtaining a bachelor's degree in Software Engineering through WGU
+- 📚 I’m working on obtaining a bachelor's degree in Cloud Computing ☁️ through WGU
 - 💻 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 🙋🏻‍♀️ Fact about me: I graduated from General Assembly's Software Engineering Immersive in June 2023 and I am actively seeking a company that I can be a perfect fit for 🧩. 
